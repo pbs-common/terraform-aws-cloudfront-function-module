@@ -5,7 +5,7 @@ go 1.26
 require (
 	github.com/aws/aws-sdk-go-v2/config v1.32.25
 	github.com/aws/aws-sdk-go-v2/service/cloudfront v1.65.2
-	github.com/aws/aws-sdk-go-v2/service/sts v1.43.3
+	github.com/aws/aws-sdk-go-v2/service/sts v1.43.4
 	github.com/gruntwork-io/terratest v1.0.0
 	github.com/stretchr/testify v1.11.1
 )
